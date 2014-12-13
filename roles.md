@@ -27,7 +27,7 @@
 		* Model/Narrator
 			* It is Rex's lovely voice that we here in the video
 		* Researcher
-			* when we started this project, we had not idea where to begin.  We all did some research on sensors.  Rex did research on the Vector Rotation Sensor
+			* when we started this project, we had not idea where to begin.  We all did some research on sensors.  Rex did research on the  Rotation Vector Sensor
 
 ####Tuan Vo
 	* Tuan's role in the project are as followed:
