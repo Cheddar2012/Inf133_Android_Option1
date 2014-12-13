@@ -1,25 +1,19 @@
 package com.example.inf133;
 
 import java.io.IOException;
-import java.util.List;
-import java.util.Random;
 
 import android.app.Activity;
-import android.content.pm.PackageManager;
 import android.content.res.AssetFileDescriptor;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
-import android.media.AudioFormat;
-import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
-import android.widget.Toast;
 
 
 public class INF_133Activity extends Activity {
